@@ -4,11 +4,12 @@ import Header from './components/Header';
 import Project from './components/Project';
 import Footer from './components/Footer';
 import About from './components/pages/About';
-import Contact from './components/pages/Contact'
+import Contact from './components/pages/Contact';
+import Resume from './components/pages/Resume'
 
 export default function MainContainer() {
     const [currentPage, setCurrentPage] = useState('Home');
-    return <Contact />
+    return <Resume />
     // About Me, Portfolio, Contact, Resume
     // This method is checking to see what the value of `currentPage` is. Depending on the value of currentPage, we return the corresponding component to render.
     // const renderPage = () => {
