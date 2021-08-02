@@ -1,5 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
+import React from 'react';
+import MainContainer from './MainContainer'
+
 
 function App() {
   return (
@@ -19,7 +22,9 @@ function App() {
           Learn React
         </a>
       </header>
+      <MainContainer />
     </div>
+    
   );
 }
 
