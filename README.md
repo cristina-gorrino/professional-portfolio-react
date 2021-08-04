@@ -26,6 +26,7 @@ This React app is my professional portfolio. It's a place for me to have a profe
 Deployed Link: 
 
 Visual of the app:
+![A view of my profile application](./portfolio-img.png)
 
 <a name="installation"></a>
 ## Installation

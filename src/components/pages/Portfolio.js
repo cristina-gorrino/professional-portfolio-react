@@ -75,7 +75,7 @@ export default function Portfolio ({id, name, github, deployed, image}) {
         <div>
             <h3>Project Portfolio</h3>
             <h4>I am happy to share these examples of my work. The gallery below shows projects where I have applied my web development skills.</h4>
-            <p>Click on the image to go to the deployed application, the titles link to the GitHub repo of the project.</p>
+            <p>Click on the links below on each project to see the full deployed app, or to visit the GitHub repo.</p>
             {examples.map((project) => (
                 <Project key={project.id} name={project.name} github={project.github} deployed={project.deployed} image={project.image} alt={project.alt} description={project.description} />
             ))}

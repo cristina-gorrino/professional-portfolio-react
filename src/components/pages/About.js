@@ -13,10 +13,6 @@ export default function About () {
                         <p className="lead">Full Stack web developer studying at the UCSD Extension bootcamp</p>
                         <p className="lead">My professional experience includes software QA testing, technical operations, and building financial tech products for customers across the globe.</p>
                         <p>I am currently based in San Diego after spending 7 years living and working in the San Francisco bay area. Graduate of Stanford University with a B.A. in International Relations.</p>
-                        <div className="d-grid gap-2 d-md-flex justify-content-md-start">
-                            <button type="button" className="btn btn-primary btn-lg px-4 me-md-2">Primary</button>
-                            <button type="button" className="btn btn-outline-secondary btn-lg px-4">Default</button>
-                        </div>
                     </div>
                 </div>
             </div>

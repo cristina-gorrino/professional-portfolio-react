@@ -5,7 +5,7 @@ import MainContainer from './MainContainer'
 
 function App() {
   return (
-    <div className="App">
+    <div className="App color-theme">   
       <MainContainer />
     </div>
     
