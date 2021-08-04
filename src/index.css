@@ -12,3 +12,26 @@ code {
     monospace;
 }
 
+.card-container {
+  display: flex;
+  justify-content: center;
+}
+
+.card {
+  margin: 50px;
+}
+
+#contact ul {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+  justify-content: center;
+  
+}
+#contact li a{
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
