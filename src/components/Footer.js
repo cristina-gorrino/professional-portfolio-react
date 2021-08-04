@@ -1,4 +1,5 @@
 import React from 'react';
+import resume from '../assets/Cristina Gorrino Resume 2021.pdf';
 
 
 export default function Footer() {
@@ -10,6 +11,7 @@ export default function Footer() {
                     <li><a href="https://www.linkedin.com/in/cristina-gorrino-01355b172/">Linkedin</a></li>
                     <li><a href="https://github.com/cristina-gorrino">GitHub</a></li>
                     <li><a href="https://stackoverflow.com/users/15286907/cgorrino?tab=profile">Stack Overflow</a></li>
+                    <li><a href={resume} rel="noreferrer" download="Cristina Gorrino Resume" target="_blank">Resume</a></li>
                 </ul>
         </footer>
     )
