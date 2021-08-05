@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/professional-portfolio-react/static/css/main.a059c138.chunk.css",
-    "main.js": "/professional-portfolio-react/static/js/main.f2f9fc68.chunk.js",
-    "main.js.map": "/professional-portfolio-react/static/js/main.f2f9fc68.chunk.js.map",
+    "main.css": "/professional-portfolio-react/static/css/main.289cc1a8.chunk.css",
+    "main.js": "/professional-portfolio-react/static/js/main.0ac34745.chunk.js",
+    "main.js.map": "/professional-portfolio-react/static/js/main.0ac34745.chunk.js.map",
     "runtime-main.js": "/professional-portfolio-react/static/js/runtime-main.ab457e67.js",
     "runtime-main.js.map": "/professional-portfolio-react/static/js/runtime-main.ab457e67.js.map",
     "static/css/2.081f420c.chunk.css": "/professional-portfolio-react/static/css/2.081f420c.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.c451bbf6.chunk.js.map": "/professional-portfolio-react/static/js/3.c451bbf6.chunk.js.map",
     "index.html": "/professional-portfolio-react/index.html",
     "static/css/2.081f420c.chunk.css.map": "/professional-portfolio-react/static/css/2.081f420c.chunk.css.map",
-    "static/css/main.a059c138.chunk.css.map": "/professional-portfolio-react/static/css/main.a059c138.chunk.css.map",
+    "static/css/main.289cc1a8.chunk.css.map": "/professional-portfolio-react/static/css/main.289cc1a8.chunk.css.map",
     "static/js/2.adb483fe.chunk.js.LICENSE.txt": "/professional-portfolio-react/static/js/2.adb483fe.chunk.js.LICENSE.txt",
     "static/media/Cristina Gorrino Resume 2021.56be4699.pdf": "/professional-portfolio-react/static/media/Cristina Gorrino Resume 2021.56be4699.pdf",
     "static/media/cg_profile_pic.b16774e6.png": "/professional-portfolio-react/static/media/cg_profile_pic.b16774e6.png",
@@ -27,7 +27,7 @@
     "static/js/runtime-main.ab457e67.js",
     "static/css/2.081f420c.chunk.css",
     "static/js/2.adb483fe.chunk.js",
-    "static/css/main.a059c138.chunk.css",
-    "static/js/main.f2f9fc68.chunk.js"
+    "static/css/main.289cc1a8.chunk.css",
+    "static/js/main.0ac34745.chunk.js"
   ]
 }
