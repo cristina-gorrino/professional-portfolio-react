@@ -10,9 +10,10 @@ export default function About () {
                     </div>
                     <div className="col-lg-6">
                         <h1 className="display-5 fw-bold lh-1 mb-3">Cristina Gorrino</h1>
-                        <p className="lead">Full Stack web developer studying at the UCSD Extension bootcamp</p>
-                        <p className="lead">My professional experience includes software QA testing, technical operations, and building financial tech products for customers across the globe.</p>
-                        <p>I am currently based in San Diego after spending 7 years living and working in the San Francisco bay area. Graduate of Stanford University with a B.A. in International Relations.</p>
+                        <p className="lead">Full Stack web developer studying at the UCSD Extension bootcamp. Currently based in San Diego, CA.</p>
+                        <p >My professional experience includes software QA testing, technical operations, and building financial tech products for customers across the globe.</p>
+                        <p>Earned a Certificate from UCSD after completing the Full Stack Bootcamp to learn new skills in web development. I've gained experience with building webpages using HTML, CSS and JavaScript as well as newer technologies like React.js. Built on my provious deep experience with PostgreSQL by building projects using MySQL and MongoDB.</p>
+                        <p> Excited to apply my new skills and keep learning more, and confident that my previous experience with testing will help me bring a user-cerntric and empathetic perspective to development work.  </p>
                     </div>
                 </div>
             </div>

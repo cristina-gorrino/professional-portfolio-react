@@ -22,23 +22,23 @@ export default function Contact() {
     
         // Based on the input type, we set the state of either email or contactName
         if (inputType === 'contactEmail') {
-            setEmail(inputValue);
-          if  (!validateEmail(email) ) {
+            
+          if  (!validateEmail(inputValue) ) {
             setErrorMessage('Email is invalid');
-            return;
+
           } else {
             setErrorMessage('');
           }
-          
+          setEmail(inputValue);
         }
         if (inputType === 'contactName') {
-            setContactName(inputValue);
-          if  (!contactName) {
+            
+          if  (!inputValue) {
             setErrorMessage('Contact name is required');
-          return;
         } else {
             setErrorMessage('');
         }
+        setContactName(inputValue);
       };
     }
       const handleFormSubmit = (e) => {
