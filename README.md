@@ -23,7 +23,7 @@
 
 This React app is my professional portfolio. It's a place for me to have a professional online presence where potential employers or collaborators can find more information about me, examples of my past projects, and get in contact.
 
-Deployed Link: 
+Deployed Link: https://cristina-gorrino.github.io/professional-portfolio-react/
 
 Visual of the app:
 ![A view of my profile application](./portfolio-img.png)
