@@ -1,5 +1,5 @@
 import React from 'react';
-import resume from '../../assets/Cristina Gorrino Resume 2021.pdf';
+import resume from '../../assets/Cristina Gorrino_Resume 2021.pdf';
 
 const styles = {
     cardStyle: {
